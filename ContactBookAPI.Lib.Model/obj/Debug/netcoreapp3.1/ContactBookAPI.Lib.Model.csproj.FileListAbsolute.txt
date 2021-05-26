@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\bin\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.deps.json
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\bin\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.dll
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\bin\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.pdb
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.dll
+C:\Users\hp\source\repos\ContactBookAPI\ContactBookAPI.Lib.Model\obj\Debug\netcoreapp3.1\ContactBookAPI.Lib.Model.pdb

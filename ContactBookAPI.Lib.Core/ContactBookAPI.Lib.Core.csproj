@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.14" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContactBookAPI.Lib.Data\ContactBookAPI.Lib.Data.csproj" />
+    <ProjectReference Include="..\ContactBookAPI.Lib.Model\ContactBookAPI.Lib.Model.csproj" />
+  </ItemGroup>
+
+</Project>
